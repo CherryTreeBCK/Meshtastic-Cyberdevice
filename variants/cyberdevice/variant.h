@@ -40,7 +40,3 @@
 
 #define SX126X_DIO2_AS_RF_SWITCH
 #define SX126X_DIO3_TCXO_VOLTAGE 1.8
-
-// Cyberdevice-specific defines
-
-#define ILI9341_SPI_HOST SPI2_HOST
